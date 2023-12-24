@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lkk0027
+- 👋 Hi, I’m @LKK
 - 👀 I’m interested in programming to solve electrical engineering problems
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
